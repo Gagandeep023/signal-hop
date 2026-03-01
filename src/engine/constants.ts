@@ -1,0 +1,9 @@
+export const INITIAL_NODE_COUNT = 10;
+export const MIN_NODE_SPACING = 0.15;
+export const BASE_TIMER = 5;
+export const MIN_TIMER = 2;
+export const DIFFICULTY_RAMP_INTERVAL = 45;
+export const TIMER_REDUCTION_PER_RAMP = 0.5;
+export const NODE_RADIUS = 24;
+export const TOUCH_TARGET_RADIUS = 30;
+export const EDGE_PADDING = 0.08;
