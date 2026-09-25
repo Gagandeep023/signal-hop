@@ -23,7 +23,10 @@ import '@gagandeep023/signal-hop/frontend/styles.css';
 function GamePage() {
   return (
     <div style={{ width: '100vw', height: '100vh' }}>
-      <SignalHop theme="dark" onGameOver={(score) => console.log('Score:', score)} />
+      <SignalHop
+        theme="dark"
+        onGameOver={(score) => console.log('Score:', score)}
+      />
     </div>
   );
 }
