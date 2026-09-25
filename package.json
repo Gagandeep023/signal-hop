@@ -1,6 +1,6 @@
 {
   "name": "@gagandeep023/signal-hop",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A reflex/strategy browser game where you hop between network nodes to keep them alive",
   "main": "dist/index.cjs",
   "module": "dist/index.js",

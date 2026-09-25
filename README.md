@@ -63,6 +63,13 @@ npm run dev     # watch mode
 - `@gagandeep023/signal-hop/types` - TypeScript types
 - `@gagandeep023/signal-hop/frontend/styles.css` - Styles
 
+## Requests and feedback
+
+[![Request a feature](https://img.shields.io/badge/request-a%20feature-64ffda)](https://github.com/Gagandeep023/signal-hop/discussions/new?category=ideas)
+[![Report a bug](https://img.shields.io/badge/report-a%20bug-cc4444)](https://github.com/Gagandeep023/signal-hop/issues/new?template=bug_report.yml)
+
+Ideas and questions go to Discussions, bugs to Issues.
+
 ## License
 
 MIT
